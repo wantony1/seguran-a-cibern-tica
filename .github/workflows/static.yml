@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>segurança cibernetica</title> 
+    <style>
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0059ff;
+            color: rgb(253, 253, 253);
+            text-align: center;
+            padding: 15px;
+        }
+        main {
+            margin: 20px;
+            padding: 20px;
+            box-sizing: border-box;
+            margin-bottom: 90px;
+        }
+        footer {
+            background-color: #0059ff; 
+            color: aliceblue;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        img {
+            max-width: 40%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        } 
+    </style>
+    <header>
+        <h1> Segurança cibernetica</h1>
+    </header>
+<main> 
+
+    <section id="introduction">
+        <h2>O que é e como funciona a segurança cibernética?</h2>
+        <p>Se você é um usuário de internet para inúmeras coisas do seu dia a dia, já ouviu falar em segurança cibernética. O termo até algum tempo atrás parecia coisa de filme de ficção científica ou de suspense e espionagem. Mas hoje é algo intrínseco do nosso cotidiano e você precisa saber do que se trata para a proteção de seus dados.</p>
+        <p>A segurança cibernética é um conjunto de ações sobre pessoas, tecnologias e processos contra os ataques cibernéticos. Os profissionais de cibersegurança visam proteger informações em sistemas, computadores e servidores contra ameaças e ataques maliciosos. O trabalho em  segurança cibernética deve abranger vários níveis, desde a segurança das redes físicas e dos aplicativos até a educação do usuário final.</p>
+       <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/01/iStock-1198811723_Easy-Resize.com_.jpg" alt="">
+    </section>
+
+    <section id="inportansia">
+        <h2>Por que a segurança cibernética é importante?</h2>
+        <p>As organizações que implementam estratégias de segurança cibernética minimizam consequências indesejadas de ataques cibernéticos que podem afetar a reputação da empresa, a capacidade financeira, as operações comerciais e a confiança do cliente. Por exemplo, empresas ativam planos de recuperação de desastres para controlar possíveis invasões e minimizar a interrupção das operações comerciais. </p>
+        <img src="https://redinnovations.com.br/wp-content/uploads/2023/10/Artigo-Seguranca-Cibernetica-na-Nuvem.png">
+   </section>
+</main>
+<footer>
+    <p> SEGURANÇA CIBERNETICA </p>
+</footer>
+
+
+</head>
+</html>
